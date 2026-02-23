@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1801850"
+    },
+    {
+      "@id":"http://id.worldcat.org/fast/717159"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2028874"
+    }
+  ],
+  "schema:description": "A detailed map and timeline documenting barracks, over 60 buildings including schools and segregated mess halls, and graphical vignettes showing people participating in camp activities. Tulare Assembly Center existed from April 27 to September 4, 1942 and the grounds had been previously used by the Tulare-Kings County Fair.\n\nThe finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8zp4dw7).",
+  "schema:identifier": [
+    "MC-349",
+    "ark:/87293/d3w08wr9h"
+  ],
+   "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3r785z5r/MC-349_0001_recto.tif"
+  },
+  "schema:name": "Tulare Assembly Center Cartoon Map and Timeline",
+  "schema:license": {
+    "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  }
+}
