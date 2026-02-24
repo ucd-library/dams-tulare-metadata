@@ -18,6 +18,10 @@
     "http://schema.org/name": "Tulare Assembly Center (Tulare, Calif.)"
   },
   {
+    "@id": "http://id.worldcat.org/fast/1213977",
+    "http://schema.org/name": "California--Tulare"
+  },
+  {
     "@id": "http://id.worldcat.org/fast/2028874",
     "http://schema.org/name": "Internment camps"
   }
